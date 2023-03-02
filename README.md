@@ -1,1 +1,1 @@
-# streamlitdata-6
+# 주가 추세 예측 앱.
